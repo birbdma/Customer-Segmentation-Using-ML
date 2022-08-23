@@ -1,5 +1,5 @@
 # Unsupervised-ML-for-Customer-Market-Segmentation
-Coursera Project May’21 - July’21
+Course Project May’21 - July’21
 - Apply Machine Learning models for market segmentation based on customer's needs to launch marketing campaigns
 - Performed EDA on 9k credit card holders' data with 18 variables (amount, tenure, etc.) to interpret customer behavior
 - Employed scikit-learn library and elbow method to obtain optimal number of clusters for segmenting the market as 4
